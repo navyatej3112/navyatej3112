@@ -59,4 +59,4 @@ Tech: Python, LangChain, RAG, Git, LLMs (GPT-4, Claude, DeepSeek, LLaMA)
 ---
 
 ## Open to Roles
-Actively seeking **Software Engineer** roles starting **Spring 2026** (Backend or Full-Stack).
+Actively seeking **Software Engineer** roles starting **Summer 2026** (Backend or Full-Stack).

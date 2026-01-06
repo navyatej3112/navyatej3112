@@ -1,7 +1,7 @@
 # Navyatej Tummala
 
-Master’s in Computer Science at NC State (Spring 2026) building production-grade backend systems and AI copilots.  
-Most recently, I shipped an On-Call Copilot (Slack + RAG) that hit **89% Top-3 source recall** across **180 eval queries** with **~780 ms** median latency, and I have internship experience improving analytics workflows by **40%** across **50+ sources**.
+Master’s in Computer Science @ NC State (Spring 2026) | Backend + Full-Stack SWE  
+I build scalable APIs, cloud-native services, and AI-powered developer tools with a focus on reliability, performance, and clean architecture.
 
 📍 Raleigh, NC  
 📫 navyatej31@gmail.com | 📞 (425) 515-1639  

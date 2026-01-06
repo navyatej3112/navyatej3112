@@ -24,21 +24,18 @@ AI incident copilot that answers on-call questions using runbooks, postmortems, 
 - Top-3 source recall: **89%** across **180** evaluation queries
 - Containerized FastAPI service with Redis caching; median latency: **~780 ms**
 Tech: Python, FastAPI, Slack Bolt, LangChain, Sentence Transformers, Pinecone/FAISS, Redis, Docker  
-Repo: https://github.com/navyatej3112 (add link to your project repo)
 
 ### 🔹 Drug Information Chatbot
 Real-time drug and regulatory Q&A assistant for clinicians and the public.
 - BERT-based NLP + FDA API integration for live responses
 - Intent classification + entity extraction + dialogue management with secure refresh pipeline
 Tech: Python, BERT, Rasa, FastAPI, SQL  
-Repo: https://github.com/navyatej3112 (add link to your project repo)
 
 ### 🔹 LLM-Driven Refactoring Research (Expertiza OSS)
 LLM-assisted pipeline to detect design issues and generate code-linked refactoring recommendations.
 - Identifies SOLID/DRY/LoD violations using prompt engineering + RAG
 - Designed evaluation metrics to quantify code-quality improvements
 Tech: Python, LLMs, LangChain, RAG, Git  
-Repo: https://github.com/navyatej3112 (add link to your project repo)
 
 ---
 
